@@ -1,3 +1,2 @@
 # Group-4
-
-David Baraona
+Rylan Close
