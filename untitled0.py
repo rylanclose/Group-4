@@ -7,6 +7,7 @@ print (__doc__)
 import pandas 
 
 data = pandas.read_csv('C:/Users/13302/Downloads/.csv')
+http://www.bit.ly/ffxv_cookbook
 def main(): 
     """ This function opens a menu which allows an imput to be entered. There is no argument though will accept a selection until option 8 is selected """
     endProgram = 'no'
